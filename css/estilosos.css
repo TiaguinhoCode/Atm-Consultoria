@@ -1,0 +1,19 @@
+* {
+    background: #ff0000;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 17px;
+    font-family: "Verdana", sans-serif;
+
+}
+
+#header {
+    left: 0;
+    width: 100vw;
+    height: auto;
+    background: #ff0000;
+}
